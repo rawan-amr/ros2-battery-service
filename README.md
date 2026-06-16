@@ -235,8 +235,3 @@ Possible future enhancements include:
 * Supporting multiple service requests
 * Adding launch files for automated startup
 * Integrating ROS2 Actions for long-running robot operations
-<<<<<<< HEAD
-```
-=======
-
->>>>>>> a464fa8 (Add project documentation)
